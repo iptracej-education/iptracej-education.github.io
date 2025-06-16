@@ -1,11 +1,24 @@
-/* Minimal spacing for resume page content */
-.resume-page p {
-    margin-bottom: 6px;
-    /* default is ~16px */
-    line-height: 1.4;
-    /* slightly tighter lines */
+/* GitHub-like typography for resume page */
+.resume-page {
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #24292e;
 }
 
-.resume-page li {
-    margin-bottom: 4px;
+.resume-page h1,
+.resume-page h2,
+.resume-page h3 {
+    font-weight: 600;
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
+}
+
+.resume-page p {
+    margin-bottom: 0.6em;
+}
+
+.resume-page ul {
+    padding-left: 1.25em;
+    margin-bottom: 0.8em;
 }
