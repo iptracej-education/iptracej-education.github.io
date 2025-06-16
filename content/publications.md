@@ -3,6 +3,8 @@ title: "Research & Publications"
 layout: page
 date: 2025-06-16
 ShowToc: false
+# content/publications.md
+classes: ["publications-page"]
 ---
 
 <link rel="stylesheet" href="/css/resume.css" />

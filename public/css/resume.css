@@ -1,26 +1,80 @@
-/* GitHub-like typography for resume page */
-
-
-.resume-page {
+/* ================================
+   Base Typography for Resume, About, and Publications
+   ================================ */
+.resume-page,
+.about-page,
+.publications-page {
     font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
     font-size: 16px;
     line-height: 1.5;
     color: #24292e;
 }
 
+/* Headings */
 .resume-page h1,
 .resume-page h2,
-.resume-page h3 {
+.resume-page h3,
+.about-page h1,
+.about-page h2,
+.about-page h3,
+.publications-page h1,
+.publications-page h2,
+.publications-page h3 {
     font-weight: 600;
     margin-top: 1.2em;
     margin-bottom: 0.5em;
 }
 
-.resume-page p {
-    margin-bottom: 0.6em;
+/* Paragraph spacing */
+.resume-page p,
+.about-page p,
+.publications-page p {
+    margin-bottom: 0.7em;
 }
 
-.resume-page ul {
+/* List styling */
+.resume-page ul,
+.about-page ul,
+.publications-page ul {
     padding-left: 1.25em;
-    margin-bottom: 0.8em;
+    margin-bottom: 1em;
+}
+
+.resume-page li,
+.about-page li,
+.publications-page li {
+    margin-bottom: 0.4em;
+}
+
+/* ================================
+   Resume Page – Custom Layout
+   ================================ */
+.resume-page .modern-resume {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    /* ≈ 1 cm */
+    font-family: system-ui, Segoe UI, sans-serif;
+    font-size: 15px;
+    color: #222;
+    line-height: 1.6;
+}
+
+/* Resume Header */
+.resume-page .modern-resume .header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+/* Section Titles */
+.resume-page .modern-resume .section h2 {
+    font-size: 1.3rem;
+    margin-bottom: 0.5rem;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 0.3rem;
+}
+
+/* Resume Content Blocks */
+.resume-page .modern-resume .section {
+    margin-bottom: 1.8rem;
 }

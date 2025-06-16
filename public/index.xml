@@ -16,7 +16,7 @@
       <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/resume.css&#34; /&gt;
 &lt;div class=&#34;resume-page&#34;&gt;
 &lt;p&gt;I’m a former Microsoft security professional, currently on sabbatical to support my spouse’s career advancement while pursuing a Master of Science in Analytics (&lt;a href=&#34;https://pe.gatech.edu/degrees/analytics&#34;&gt;OMSA&lt;/a&gt;) for pursuing my passion for Security AI and ML engineering.&lt;/p&gt;
-&lt;p&gt;Our family recently relocated from Seattle, Washington to Dayton, Ohio, where my wife has joined Honda’s EV engine division. We’re enjoying life here — and in my personal time, I’m taking steps toward earning a private pilot license.&lt;/p&gt;</description>
+&lt;p&gt;Our family recently relocated from Seattle, Washington to &lt;a href=&#34;https://en.wikipedia.org/wiki/Dayton,_Ohio&#34;&gt;Dayton, Ohio&lt;/a&gt;, where my wife has joined Honda’s EV engine division. We’re enjoying life here — and in my personal time, I’m taking steps toward earning a private pilot license.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research &amp; Publications</title>
@@ -57,19 +57,22 @@
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/resume/</guid>
       <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/resume.css&#34; /&gt;
-&lt;div class=&#34;resume-page&#34;&gt;
-&lt;h2 id=&#34;kiyoshi-watanabe&#34;&gt;Kiyoshi Watanabe&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;AI/ML Engineer | Cybersecurity Specialist | Technical Writer&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;resume-page modern-resume&#34;&gt;
+&lt;div class=&#34;header&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Home&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/publications/&#34;&gt;Research &amp;amp; Publications&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;About Me&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;kiyoshi-watanabe-cissposcp&#34;&gt;Kiyoshi Watanabe, CISSP/OSCP&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;AI/ML Engineer | Cybersecurity Specialist | Independent R&amp;amp;D&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;ul&gt;
-&lt;li&gt;Location: Ohio, USA&lt;/li&gt;
-&lt;li&gt;Japanese citizen and U.S. permanent resident&lt;/li&gt;
-&lt;li&gt;Email: &lt;a href=&#34;mailto:kiwatana@hotmail.co.jp&#34;&gt;kiwatana@hotmail.co.jp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://linkedin.com/in/kiyoshi-watanabe-06395213&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://qiita.com/iptracej&#34;&gt;Qiita&lt;/a&gt; | &lt;a href=&#34;https://note.com/kiwatana&#34;&gt;Note&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; Ohio, USA&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nationality:&lt;/strong&gt; Japanese citizen and U.S. permanent resident&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:kiwatana@hotmail.co.jp&#34;&gt;kiwatana@hotmail.co.jp&lt;/a&gt; | &lt;a href=&#34;https://linkedin.com/in/kiyoshi-watanabe-06395213&#34;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&#34;https://qiita.com/iptracej&#34;&gt;Qiita&lt;/a&gt; (JP) | &lt;a href=&#34;https://note.com/kiwatana&#34;&gt;Note&lt;/a&gt; (JP)
+| &lt;a href=&#34;https://github.com/iptracej-education&#34;&gt;Github&lt;/a&gt; | &lt;a href=&#34;https://x.com/iptracej&#34;&gt;X&lt;/a&gt; | Medium | Kaggle | &lt;a href=&#34;https://www.hackthebox.com/achievement/machine/240308/564&#34;&gt;Hack the box&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;More to come&lt;/p&gt;
-&lt;/div&gt;</description>
+&lt;div class=&#34;section&#34;&gt;
+&lt;p&gt;I am deeply interested in Security Engineering powered by AI/ML—where data meets defense. I strongly believe the world of Security Engineering powered by AI/ML.
+&lt;strong&gt;Currently, I am transitioning myself into an AI/ML Engineering field.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

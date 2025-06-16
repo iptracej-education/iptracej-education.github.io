@@ -3,6 +3,8 @@ title: "About me"
 layout: page
 date: 2025-06-16
 ShowToc: false
+# content/about.md
+classes: ["about-page"]
 ---
 
 <link rel="stylesheet" href="/css/resume.css" />
@@ -10,7 +12,7 @@ ShowToc: false
 
 I’m a former Microsoft security professional, currently on sabbatical to support my spouse’s career advancement while pursuing a Master of Science in Analytics ([OMSA](https://pe.gatech.edu/degrees/analytics)) for pursuing my passion for Security AI and ML engineering.
 
-Our family recently relocated from Seattle, Washington to Dayton, Ohio, where my wife has joined Honda’s EV engine division. We’re enjoying life here — and in my personal time, I’m taking steps toward earning a private pilot license.
+Our family recently relocated from Seattle, Washington to [Dayton, Ohio](https://en.wikipedia.org/wiki/Dayton,_Ohio), where my wife has joined Honda’s EV engine division. We’re enjoying life here — and in my personal time, I’m taking steps toward earning a private pilot license.
 
 ---
 
@@ -29,5 +31,9 @@ My research interests include:
 With over 20 years at Microsoft leading security efforts, I’m now channeling that experience into advancing research at the intersection of AI and cybersecurity.
 
 👋Stay tuned — exciting developments ahead.
+
+You can find out more via , or just drop me an email via sean at heelan dot io.
+
+My Twitter profile is here, and my LinkedIn profile is here.
 
 </div>
