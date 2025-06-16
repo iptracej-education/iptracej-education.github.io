@@ -53,6 +53,8 @@ name = "medium"
 url = "https://medium.com/@kiwatana"
 
 
+[params.assets]
+customCSS = ["css/resume.css"]
 
 [menu]
 

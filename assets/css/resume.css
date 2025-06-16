@@ -1,0 +1,11 @@
+/* Minimal spacing for resume page content */
+.resume-page p {
+    margin-bottom: 6px;
+    /* default is ~16px */
+    line-height: 1.4;
+    /* slightly tighter lines */
+}
+
+.resume-page li {
+    margin-bottom: 4px;
+}
