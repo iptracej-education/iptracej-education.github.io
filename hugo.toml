@@ -24,7 +24,7 @@ enableInlineShortcodes = true
   disableThemeToggle = false
  
  [params.homeInfoParams]
-  Title = "Hi, I'm Kiyoshi 👋", 
+  Title = "Hi, I'm Kiyoshi 👋"
   Content = """Welcome to my blogs. I'm sharing ideas, thoughts and techniques from my work and learning.
 
   - 💼 Engineering notes
