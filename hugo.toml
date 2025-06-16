@@ -56,7 +56,7 @@ name = "medium"
 url = "https://medium.com/@kiwatana"
 
 [[params.socialIcons]]
-name = "note"
+name = "article"
 url = "https://note.com/kiwatana"
 
 [[params.socialIcons]]
