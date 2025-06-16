@@ -54,12 +54,13 @@ name = "medium"
 url = "https://medium.com/@kiwatana"
 
 [[params.socialIcons]]
-url = "https://note.com/kiwatana"
 title = "note"
+name = "https://note.com/kiwatana"
 
 [[params.socialIcons]]
+name = "qiita"
 url = "https://qiita.com/iptracej"
-title = "qiita"
+
 
 
 [menu]
