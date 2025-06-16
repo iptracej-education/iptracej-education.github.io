@@ -25,7 +25,9 @@ enableInlineShortcodes = true
  
  [params.homeInfoParams]
   Title = "Hi, I'm Kiyoshi 👋"
-  Content = """Welcome to my blogs. I'm sharing ideas, thoughts and techniques from my work and learning. <br><br>&nbsp;
+  Content = """Welcome to my blogs. I'm sharing ideas, thoughts and techniques from my work and learning.
+
+    <p>&nbsp;</p>
 
   - 💼 AI/ML Engineering notes
   - 🔐 LLM Base Software Vulnerability Discovery techniques
@@ -60,7 +62,6 @@ url = "https://note.com/kiwatana"
 [[params.socialIcons]]
 name = "qiita"
 url = "https://qiita.com/iptracej"
-
 
 
 [menu]
