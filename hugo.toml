@@ -25,16 +25,11 @@ enableInlineShortcodes = true
  
  [params.homeInfoParams]
   Title = "Hi, I'm Kiyoshi 👋"
-  Content = """Welcome to my blogs. I'm sharing ideas, thoughts and techniques from my work and learning. 
+  Content = """Security Engineering powered by AI/ML—where data meets defense. 
 
-  This is still working in progress. Stay tuned! 
-
-  - Security AI/ML Engineering topics 
-   - LLM-Enhanced Deep Code Reasoning
-   - Software Vulnerability Discovery Pipelines
-   - Human-Machine Collaboration in Vulnerability Research 
-  - Writing on [Note](https://note.com/kiwatana) and 📝 [Qiita](https://qiita.com/iptracej) in Japanese 
-  - Reach out via [LinkedIn](https://linkedin.com/in/kiyoshi-watanabe-06395213) or [email](mailto:kiwatana@hotmail.co.jp)
+- Security Engineering powered by AI/ML
+- Writing on 📝 [Note](https://note.com/kiwatana) and 📝 [Qiita](https://qiita.com/iptracej) in Japanese 
+- Reach out via [LinkedIn](https://linkedin.com/in/kiyoshi-watanabe-06395213) or [email](mailto:kiwatana@hotmail.co.jp)
 """
 
 [[params.socialIcons]]

@@ -2,6 +2,7 @@
 title: "Resume"
 date: 2025-06-15
 layout: page
+ShowToc: false
 ---
 
 ## Kiyoshi Watanabe
