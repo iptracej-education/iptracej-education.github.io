@@ -27,7 +27,7 @@ enableInlineShortcodes = true
   Title = "Hi, I'm Kiyoshi 👋"
   Content = """Welcome to my blogs. I'm sharing ideas, thoughts and techniques from my work and learning.
 
-    <p></p>
+    
 
   - 💼 AI/ML Engineering notes
   - 🔐 LLM Base Software Vulnerability Discovery techniques
