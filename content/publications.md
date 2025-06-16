@@ -3,7 +3,7 @@ title: "Research & Publications"
 layout: page
 ---
 
-# 🧪 Research & Publications
+# Research & Publications
 
 More to come...
 
