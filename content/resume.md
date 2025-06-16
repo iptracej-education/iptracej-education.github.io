@@ -8,7 +8,7 @@ classes: "resume-page"
 
 ## Kiyoshi Watanabe
 
-**AI/ML Engineer | Cybersecurity and Software Vulnerability Specialist | Technical Writer**
+**AI/ML Engineer | Cybersecurity Specialist | Technical Writer**
 
 - Location: Ohio, USA
 - Email: kiwatana@hotmail.co.jp

@@ -27,7 +27,8 @@ enableInlineShortcodes = true
   Title = "Hi, I'm Kiyoshi 👋"
   Content = """Security Engineering powered by AI/ML—where data meets defense. 
 
-- Security Engineering powered by AI/ML
+
+
 - Writing on 📝 [Note](https://note.com/kiwatana) and 📝 [Qiita](https://qiita.com/iptracej) in Japanese 
 - Reach out via [LinkedIn](https://linkedin.com/in/kiyoshi-watanabe-06395213) or [email](mailto:kiwatana@hotmail.co.jp)
 """
