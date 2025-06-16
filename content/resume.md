@@ -28,8 +28,7 @@ classes: ["resume-page"]
 
 <div class="section">
 
-  I am deeply interested in Security Engineering powered by AI/ML—where data meets defense. I strongly believe the world of Security Engineering powered by AI/ML. 
-  **Currently, I am transitioning myself into an AI/ML Engineering field.** 
+  I am deeply interested in Security Engineering powered by AI/ML—where data meets defense. I strongly believe in the transformative potential of this intersection and am **currently transitioning into the AI/ML engineering field**.
 
 <div class="section">
 
