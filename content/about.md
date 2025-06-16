@@ -16,7 +16,7 @@ Our family recently relocated from Seattle, Washington to Dayton, Ohio, where my
 
 Professionally, I spent 20 years leading security efforts in Microsoft's Consulting Services division, gradually shifting my focus from infrastructure security to application and software security.
 
-In recent years, I’ve become increasingly interested in the intersection of security and AI/ML engineering — recognizing the potential for these disciplines to complement and enhance one another.
+In recent years, while pursuing offensive security certifications such as [OSCP](https://www.offsec.com/products/oscp-plus/), [OSWE](https://www.offsec.com/courses/web-300/), and [GPEN](https://www.giac.org/certifications/penetration-tester-gpen/) — and actively participating in [CTFs](https://ctf.hackthebox.com/) and real-world hacking events — I’ve developed a strong interest in the intersection of security and AI/ML engineering, recognizing how these disciplines can meaningfully complement and strengthen each other.
 
 I’m deeply interested in frameworks that uncover novel and existing attack surfaces, vectors, and paths. My current focus is on integrating knowledge management (TTPs) with large language models (LLMs) to accelerate vulnerability discovery. While human oversight remains vital, I believe that ML models equipped with local knowledge of TTPs can act as catalysts—revealing new angles and exploit chains even seasoned experts might miss.
 
