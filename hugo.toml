@@ -27,7 +27,7 @@ enableInlineShortcodes = true
   Title = "Hi, I'm Kiyoshi 👋"
   Content = """Welcome to my blogs. I'm sharing ideas, thoughts and techniques from my work and learning. 
 
-    <br><br>
+    <p>&nbsp;</p>
 
   - 💼 AI/ML Engineering notes
   - 🔐 LLM Base Software Vulnerability Discovery techniques
@@ -67,28 +67,30 @@ url = "https://medium.com/@kiwatana"
 
   [[menu.main]]
   identifier = "Research and Publications"
-  name = "Resume"
-  url = "/resume/"
+  name = "Research and Publications"
+  url = "/publications/"
   weight = 10
 
-  [[menu.main]]
-  name = "Archive"
-  url = "archives/"
-  weight = 20
 
-  [[menu.main]]
-  name = "Search"
-  url = "search/"
-  weight = 30
 
-  [[menu.main]]
-  name = "Tags"
-  url = "tags/"
-  weight = 40
+  # [[menu.main]]
+  # name = "Archive"
+  # url = "archives/"
+  # weight = 20
 
-  [[menu.main]]
-  name = "Wiki"
-  url = "wiki/"
-  weight = 50
+  # [[menu.main]]
+  # name = "Search"
+  # url = "search/"
+  # weight = 30
+
+  # [[menu.main]]
+  # name = "Tags"
+  # url = "tags/"
+  # weight = 40
+
+  # [[menu.main]]
+  # name = "Wiki"
+  # url = "wiki/"
+  # weight = 50
 
   
