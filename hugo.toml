@@ -4,7 +4,6 @@ title = "Kiyoshi Watanabe's Blogs"
 theme = "PaperMod"
 defaultContentLanguage = "en"
 enableInlineShortcodes = true
-paginate = 5
 
 [caches]
   [caches.images]
