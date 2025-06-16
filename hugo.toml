@@ -27,7 +27,7 @@ enableInlineShortcodes = true
   Title = "Hi, I'm Kiyoshi 👋"
   Content = """Welcome to my blogs. I'm sharing ideas, thoughts and techniques from my work and learning. 
 
-    &emsp;
+    <br><p></p><br>
 
   - 💼 AI/ML Engineering notes
   - 🔐 LLM Base Software Vulnerability Discovery techniques
@@ -77,3 +77,9 @@ url = "https://medium.com/@kiwatana"
   name = "Wiki"
   url = "wiki/"
   weight = 4
+
+  [[menu.main]]
+  identifier = "resume"
+  name = "Resume"
+  url = "/resume/"
+  weight = 30
