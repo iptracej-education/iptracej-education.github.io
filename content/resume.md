@@ -5,6 +5,9 @@ layout: page
 ShowToc: false
 classes: "resume-page"
 ---
+<link rel="stylesheet" href="/css/resume.css" />
+
+<div class="resume-page">
 
 ## Kiyoshi Watanabe
 
@@ -17,3 +20,5 @@ classes: "resume-page"
 
 ---
 More to come
+
+</div>

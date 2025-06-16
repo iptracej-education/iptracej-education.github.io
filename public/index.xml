@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Kiyoshi Watanabe&#39;s Notes</title>
+    <title>Kiyoshi Watanabe&#39;s Blogs</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Kiyoshi Watanabe&#39;s Notes</description>
+    <description>Recent content on Kiyoshi Watanabe&#39;s Blogs</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/resume.css&#34; /&gt;
+&lt;div class=&#34;resume-page&#34;&gt;
+&lt;h2 id=&#34;kiyoshi-watanabe&#34;&gt;Kiyoshi Watanabe&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;AI/ML Engineer | Cybersecurity Specialist | Technical Writer&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Location: Ohio, USA&lt;/li&gt;
+&lt;li&gt;Email: &lt;a href=&#34;mailto:kiwatana@hotmail.co.jp&#34;&gt;kiwatana@hotmail.co.jp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linkedin.com/in/kiyoshi-watanabe-06395213&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/iptracej&#34;&gt;Qiita&lt;/a&gt; | &lt;a href=&#34;https://note.com/kiwatana&#34;&gt;Note&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;More to come&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Research &amp; Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;p&gt;More to come&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/6657285&#34;&gt;ICHIGAN Security - A Security Architecture That Enables Situation-Based Policy Switching&lt;/a&gt;
+&lt;em&gt;2013 International Conference on Availability, Reliability and Security&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

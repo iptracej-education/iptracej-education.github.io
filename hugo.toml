@@ -93,4 +93,7 @@ customCSS = ["css/resume.css"]
   # url = "wiki/"
   # weight = 50
 
-  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
