@@ -22,15 +22,43 @@ enableInlineShortcodes = true
   ShowToc = true
   defaultTheme = "auto"
   disableThemeToggle = false
-  homeInfoParams = { Title = "Hi, I'm Kiyoshi 👋", Content = "Welcome to my blogs. I'm sharing ideas, thoughts and techniques from my work and learning." }
+ 
+ [params.homeInfoParams]
+  Title = "Hi, I'm Kiyoshi 👋", 
+  Content = """Welcome to my blogs. I'm sharing ideas, thoughts and techniques from my work and learning.
+
+  - 💼 Engineering notes
+  - 🔐 Security techniques
+  - ✍️ Writing on Qiita and Note
+  - 📬 Reach out via [LinkedIn](https://linkedin.com/in/kiyoshi-watanabe-06395213) or [email](mailto:kiwatana@hotmail.co.jp)
+"""
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/iptracej"
+url = "https://github.com/iptracej-education"
 
 [[params.socialIcons]]
 name = "twitter"
-url = "https://twitter.com/yourhandle"
+url = "https://twitter.com/iptracej"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/kiyoshi-watanabe-06395213/"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:kiwatana@hotmail.co.jp"
+
+[[params.socialIcons]]
+name = "external"
+url = "https://note.com/kiwatana"
+title = "note"
+
+[[params.socialIcons]]
+name = "external"
+url = "https://qiita.com/iptracej"
+title = "Qiita"
+
 
 [menu]
   [[menu.main]]
