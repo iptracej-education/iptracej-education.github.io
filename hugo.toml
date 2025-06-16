@@ -25,14 +25,13 @@ enableInlineShortcodes = true
  
  [params.homeInfoParams]
   Title = "Hi, I'm Kiyoshi 👋"
-  Content = 
-  """Welcome to my blogs. I'm sharing ideas, thoughts and techniques from my work and learning.
+  Content = """Welcome to my blogs. I'm sharing ideas, thoughts and techniques from my work and learning.
   
   - 💼 AI/ML Engineering notes
   - 🔐 LLM Base Software Vulnerability Discovery techniques
   - ✍️ Writing on Qiita and Note
   - 📬 Reach out via [LinkedIn](https://linkedin.com/in/kiyoshi-watanabe-06395213) or [email](mailto:kiwatana@hotmail.co.jp)
-  """
+"""
 
 [[params.socialIcons]]
 name = "github"
