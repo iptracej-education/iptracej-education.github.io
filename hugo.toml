@@ -1,0 +1,8 @@
+baseURL = "https://iptracej-education.github.io/"
+languageCode = "en-us"
+title = "Kiyoshi Watanabe's Notes"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
