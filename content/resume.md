@@ -14,6 +14,7 @@ classes: "resume-page"
 **AI/ML Engineer | Cybersecurity Specialist | Technical Writer**
 
 - Location: Ohio, USA
+- Japanese citizen and U.S. permanent resident 
 - Email: kiwatana@hotmail.co.jp
 - [LinkedIn](https://linkedin.com/in/kiyoshi-watanabe-06395213)
 - [Qiita](https://qiita.com/iptracej) | [Note](https://note.com/kiwatana)

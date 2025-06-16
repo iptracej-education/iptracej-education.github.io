@@ -6,8 +6,51 @@
     <description>Recent content on Kiyoshi Watanabe&#39;s Blogs</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/resume.css&#34; /&gt;
+&lt;div class=&#34;resume-page&#34;&gt;
+&lt;p&gt;I’m a former Microsoft security professional, currently on sabbatical to support my spouse’s career advancement while pursuing a Master of Science in Analytics (&lt;a href=&#34;https://pe.gatech.edu/degrees/analytics&#34;&gt;OMSA&lt;/a&gt;) for pursuing my passion for Security AI and ML engineering.&lt;/p&gt;
+&lt;p&gt;Our family recently relocated from Seattle, Washington to Dayton, Ohio, where my wife has joined Honda’s EV engine division. We’re enjoying life here — and in my personal time, I’m taking steps toward earning a private pilot license.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research &amp; Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/resume.css&#34; /&gt;
+&lt;div class=&#34;resume-page&#34;&gt;
+&lt;p&gt;More to come&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;microsoft-documentation&#34;&gt;Microsoft Documentation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Threat Modeling and AI Threat Modeling - Technical Document, Microsoft Internal, 2022&lt;/li&gt;
+&lt;li&gt;Software Development Lifecycle Maturity Assessment - Technical Document, Microsoft Internal, 2021&lt;/li&gt;
+&lt;li&gt;Software Development Lifecycle Requirements - - Technical Document, Microsoft Internal, 2020&lt;/li&gt;
+&lt;li&gt;Business Security - Business Consulting Document, Microsoft Internal, 2019&lt;/li&gt;
+&lt;li&gt;Direct Access using IPv6 - Technical Document, Microsoft Internal, 2018&lt;/li&gt;
+&lt;li&gt;Network Isolation, Microsoft Internal, 2018&lt;/li&gt;
+&lt;li&gt;Network Access Protection, Microsoft Internal, 2017&lt;/li&gt;
+&lt;li&gt;Rights Management Server Solution - Technical Document, Microsoft Internal, 2017&lt;/li&gt;
+&lt;li&gt;Server and Domain Isolation using IPsec - Technical Document, Microsoft Internal, 2016&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;conference&#34;&gt;Conference&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/6657285&#34;&gt;ICHIGAN Security - A Security Architecture That Enables Situation-Based Policy Switching&lt;/a&gt;
+&lt;em&gt;2013 International Conference on Availability, Reliability and Security&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;patents&#34;&gt;Patents&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://patents.google.com/patent/JP2004214751A/en&#34;&gt;Certificate path information management system and certificate path management method&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://patents.google.com/patent/US20020018566A1/de&#34;&gt;Apparatus and method for disribution of contents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://patents.google.com/patent/US20020046189A1/en&#34;&gt;Payment processing method and system&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Resume</title>
       <link>http://localhost:1313/resume/</link>
@@ -19,6 +62,7 @@
 &lt;p&gt;&lt;strong&gt;AI/ML Engineer | Cybersecurity Specialist | Technical Writer&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Location: Ohio, USA&lt;/li&gt;
+&lt;li&gt;Japanese citizen and U.S. permanent resident&lt;/li&gt;
 &lt;li&gt;Email: &lt;a href=&#34;mailto:kiwatana@hotmail.co.jp&#34;&gt;kiwatana@hotmail.co.jp&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://linkedin.com/in/kiyoshi-watanabe-06395213&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://qiita.com/iptracej&#34;&gt;Qiita&lt;/a&gt; | &lt;a href=&#34;https://note.com/kiwatana&#34;&gt;Note&lt;/a&gt;&lt;/li&gt;
@@ -26,15 +70,6 @@
 &lt;hr&gt;
 &lt;p&gt;More to come&lt;/p&gt;
 &lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Research &amp; Publications</title>
-      <link>http://localhost:1313/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/</guid>
-      <description>&lt;p&gt;More to come&amp;hellip;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/6657285&#34;&gt;ICHIGAN Security - A Security Architecture That Enables Situation-Based Policy Switching&lt;/a&gt;
-&lt;em&gt;2013 International Conference on Availability, Reliability and Security&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

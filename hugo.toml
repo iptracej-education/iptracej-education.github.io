@@ -22,6 +22,7 @@ enableInlineShortcodes = true
   ShowToc = true
   defaultTheme = "auto"
   disableThemeToggle = false
+  ShowSearch = true
  
  [params.homeInfoParams]
   Title = "Hi, I'm Kiyoshi 👋"
@@ -71,29 +72,36 @@ customCSS = ["css/resume.css"]
   url = "/publications/"
   weight = 10
 
+  [[menu.main]]
+  identifier = "About me"
+  name = "About me"
+  url = "/about"
+  weight = 20
 
+  [[menu.main]]
+  name = "Search"
+  url = "search/"
+  weight = 30
 
   # [[menu.main]]
   # name = "Archive"
   # url = "archives/"
-  # weight = 20
-
-  # [[menu.main]]
-  # name = "Search"
-  # url = "search/"
-  # weight = 30
+  # weight = 40
 
   # [[menu.main]]
   # name = "Tags"
   # url = "tags/"
-  # weight = 40
+  # weight = 50
 
   # [[menu.main]]
   # name = "Wiki"
   # url = "wiki/"
-  # weight = 50
+  # weight = 60
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
