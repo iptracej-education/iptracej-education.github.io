@@ -25,13 +25,13 @@ enableInlineShortcodes = true
  
  [params.homeInfoParams]
   Title = "Hi, I'm Kiyoshi 👋"
-  Content = """Welcome to my blogs. I'm sharing ideas, thoughts and techniques from my work and learning.
+  Content = """Welcome to my blogs. I'm sharing ideas, thoughts and techniques from my work and learning. 
 
-    
+    &emsp;
 
   - 💼 AI/ML Engineering notes
   - 🔐 LLM Base Software Vulnerability Discovery techniques
-  - ✍️ Writing on Qiita and Note
+  - ✍️ Writing on [Note](https://note.com/kiwatana) and [Qiita](https://qiita.com/iptracej) in Japanese 
   - 📬 Reach out via [LinkedIn](https://linkedin.com/in/kiyoshi-watanabe-06395213) or [email](mailto:kiwatana@hotmail.co.jp)
 """
 
@@ -55,13 +55,6 @@ url = "mailto:kiwatana@hotmail.co.jp"
 name = "medium"
 url = "https://medium.com/@kiwatana"
 
-[[params.socialIcons]]
-name = "article"
-url = "https://note.com/kiwatana"
-
-[[params.socialIcons]]
-name = "qiita"
-url = "https://qiita.com/iptracej"
 
 
 [menu]
