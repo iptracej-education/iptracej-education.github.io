@@ -2,6 +2,7 @@ baseURL = "https://iptracej-education.github.io/"
 languageCode = "en-us"
 title = "Kiyoshi Watanabe's Notes"
 theme = "PaperMod"
+cacheDir = "resources/_cache"
 
 [params]
   defaultTheme = "auto"
