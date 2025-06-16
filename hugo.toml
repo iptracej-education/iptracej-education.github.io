@@ -1,12 +1,55 @@
 baseURL = "https://iptracej-education.github.io/"
 languageCode = "en-us"
-title = "Kiyoshi Watanabe's Notes"
+title = "Kiyoshi Watanabe's Blogs"
 theme = "PaperMod"
+defaultContentLanguage = "en"
+enableInlineShortcodes = true
+paginate = 5
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
 
 [params]
-  defaultTheme = "auto"
+  env = "production"
+  title = "Kiyoshi Watanabe's Notes"
+  description = "Security blogs"
+  author = "Kiyoshi Watanabe"
   ShowReadingTime = true
+  ShowShareButtons = true
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowToc = true
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  homeInfoParams = { Title = "Hi, I'm Kiyoshi 👋", Content = "Welcome to my blogs. I'm sharing ideas, thoughts and techniques from my work and learning." }
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/iptracej"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/yourhandle"
+
+[menu]
+  [[menu.main]]
+  name = "Archive"
+  url = "archives/"
+  weight = 1
+
+  [[menu.main]]
+  name = "Search"
+  url = "search/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Tags"
+  url = "tags/"
+  weight = 3
+
+  [[menu.main]]
+  name = "Wiki"
+  url = "wiki/"
+  weight = 4
