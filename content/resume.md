@@ -42,21 +42,21 @@ classes: ["resume-page"]
 
   ## Software Vulnerability Discovery Projects
 
-  - More to come (2025)
-  - More to come (2024)
+  - ZeroBuilder - Goal to surpass DARPA CGC and Meta CaRE 2.0 (2025)
+  - More to come
 
  <div class="section">
 
   ## Skill Summary
   **Engineering** 
   - Programming Languages: Python, Java, C/C++, R, SQL
-  - Python frameworks: Pandas, Numpy, Scikit-Learn, Matlolib, 
-  - GenAI frameworks: MCP, OpenAI Agent
-  - Tools: VSCode, Github Copliot, UV, Cursor AI, Claude 
+  - Python frameworks: Pytorch, Pandas, Numpy, Scikit-Learn, Matlolib, 
+  - GenAI frameworks: MCP, LangChain, LangGraph, CreweAI
+  - Tools: VSCode, Github Copilot, UV, Grok API, DeepSeekCoder, Cursor Code, Claude API 
 
    **Security** 
   - Offensive Tools: Kali Linux, Burpsuite, Nessus, Metasploit, etc. 
-  - Debugger/Disassemblers: OllyDbg, WinDbg, Binary Ninja, Gidra, IDA Pro  
+  - Debugger/Disassembler: OllyDbg, WinDbg, Binary Ninja, Gidra, IDA Pro  
   - Code Assessment: CodeQL 
   - Fuzzing: AFL++, Peach Fuzzer
 
