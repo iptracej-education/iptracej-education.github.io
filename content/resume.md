@@ -34,17 +34,20 @@ classes: ["resume-page"]
 
   ## Research Interests
 
-  - _LLM-Enhanced Code Reasoning for Multi-Path Vulnerability Discovery_
-  - _Adaptive, Data-Driven Vulnerability Detection Pipelines_
+  - _Machine Learning and Software Security Analysis_  
+  - _AutoResearch based Vulnerability Discovery, Analysis, Experiment, and Proof_
+  - _Software Vulnerability Representation, Tool-Grounded and execution-Traced Vulnerability Detection Pipelines_
   - _Human-AI Collaboration in Security Research_
 
 </div>
 
   ## Software Vulnerability Discovery Projects
 
-  - ZeroBuilder - Goal to surpass DARPA CGC and Meta CaRE 2.0 (2025)
-  - More to come
-
+  - [VulnSignal](https://github.com/iptracej-education/VulnSignal): Tool-Grounded Candidate Ranking for Vulnerability Research 
+  - [Patch-Delta-Guided Representation Layers Study](https://github.com/iptracej-education/vuln-representation-layers) [(pdf)](https://github.com/iptracej-education/vuln-representation-layers/blob/main/Report.pdf)
+  - [Linux PatchDiff Postmortem-AI (Proposal)](https://gist.github.com/iptracej-education/48e39a9e2bd2244b185d810e57a61188): LM-Assisted Post-Patch Root-Cause Analysis for Linux Security Updates
+  - [PatchQL-Agent (Proposal)](https://gist.github.com/iptracej-education/54ebb0ca93e9551e7490127f9034a147): Patch-Delta-Guided CodeQL Query Synthesis for Vulnerability Variant Discovery
+ 
  <div class="section">
 
   ## Skill Summary
@@ -68,7 +71,7 @@ classes: ["resume-page"]
 
   **Independent R&D**, _Part-time, Current, Dayton, Ohio, US_
 
-  I am currently pursuing independent R&D while completing OMSA program at Georgia Tech. 
+  I am currently pursuing independent R&D while completing MSA program at Georgia Tech. 
   
   **Business/Program Manager - Microsoft Security Operation**, _Full-time, April 2022 - March 2024, Redmond, Washington, US_
 
