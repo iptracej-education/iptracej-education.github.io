@@ -35,7 +35,7 @@ classes: ["resume-page"]
   ## Research Interests
 
   - _Machine Learning and Software Security Analysis_  
-  - _AutoResearch based Vulnerability Discovery, Analysis, Experiment, and Proof_
+  - _Multi-agent based Vulnerability Discovery, Analysis, Experiment, and Proof_
   - _Software Vulnerability Representation, Tool-Grounded and execution-Traced Vulnerability Detection Pipelines_
   - _Human-AI Collaboration in Security Research_
 
@@ -71,7 +71,7 @@ classes: ["resume-page"]
 
   **Independent R&D**, _Part-time, Current, Dayton, Ohio, US_
 
-  I am currently pursuing independent R&D while completing Master of Analytics (Data Science) program at Georgia Tech. 
+  I am currently pursuing independent R&D while completing Master of Analytics and Computer Science at Georgia Tech. 
   
   **Security Program Manager - Microsoft Security Operation**, _Full-time, April 2022 - March 2024, Redmond, Washington, US_
 
