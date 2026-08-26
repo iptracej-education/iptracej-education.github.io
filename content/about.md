@@ -12,14 +12,14 @@ classes: ["about-page"]
 
 ## **Who am I?**
 
-I’m a former Microsoft security professional, currently on sabbatical to support my spouse’s career advancement while pursuing a Master of Science in Analytics ([OMSA](https://pe.gatech.edu/degrees/analytics)) for pursuing my passion for Security AI and ML engineering.
+I’m a former Microsoft security professional, currently on sabbatical to support my spouse’s career advancement while pursuing a Master of Science in Analytics ([OMSA](https://pe.gatech.edu/degrees/analytics)) and Computer Science for pursuing my passion for Security AI and ML engineering.
 
 Our family recently relocated from Seattle, Washington to [Dayton, Ohio](https://en.wikipedia.org/wiki/Dayton,_Ohio), where my wife has joined Honda’s EV engine division. We’re enjoying life here — and in my personal time, I’m taking steps toward earning a private pilot license.
 
 
 ## **My background**
 
-Professionally, I spent 20 years leading security efforts in Microsoft's Consulting Services division, gradually shifting my focus from infrastructure security to application and software security.
+Professionally, I spent +15 years leading security efforts in Microsoft's Consulting Services division.
 
 In recent years, while pursuing offensive security certifications such as [OSCP](https://www.offsec.com/products/oscp-plus/), [OSWE](https://www.offsec.com/courses/web-300/), and [GPEN](https://www.giac.org/certifications/penetration-tester-gpen/) — and actively participating in [CTFs](https://ctf.hackthebox.com/) and real-world hacking events — I’ve developed a strong interest in the intersection of security and AI/ML engineering, recognizing how these disciplines can meaningfully complement and strengthen each other.
 
