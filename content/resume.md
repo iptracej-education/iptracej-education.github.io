@@ -77,7 +77,7 @@ classes: ["resume-page"]
 
   Led the onboarding team for Microsoft SOC Services, transitioning Fortune 500 clients from custom deployments to an agile, task-based workflow. Have managed, coordinated, and optimized the delivery of key security platforms including Sentinel, M365 Defender, and Azure Lighthouse. This work drove adoption of a standardized onboarding model, improving alignment with Microsoft and industry best practices.
 
-   **Security Field Consultant and Analyst - Microsoft Security Operation**, _Full-time, Jan 2003 - March 2024, Tokyo, Japan and Redmond, Washington, US_
+   **Security Field Consultant and Analyst - Microsoft Consulting Services**, _Full-time, Jan 2003 - March 2024, Tokyo, Japan and Redmond, Washington, US_
 
   Served as a Software Engineer and Security Consultant for +15 years, leading enterprise engagements across Japan and globally in deploying Microsoft’s security ecosystem. Specialized in software engineering, security analysis, threat modeling, offensive simulation (TTP-based), and security solution development across cloud and on-premises environments. Collaborated directly with Microsoft engineering and government agencies on vulnerability research, compiler-based static analysis, and product-level security enhancements.
 
