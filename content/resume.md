@@ -52,7 +52,7 @@ classes: ["resume-page"]
 
   ## Skill Summary
   **Engineering** 
-  - Programming Languages: Python, Java, C/C++, R, SQL
+  - Programming Languages: Rust, Python, Java, C/C++, R, SQL
   - Python frameworks: Pytorch, Pandas, Numpy, Scikit-Learn, Matlolib, 
   - GenAI frameworks: MCP, LangChain, LangGraph, CreweAI
   - Tools: VSCode, Github Copilot, UV, Grok API, DeepSeekCoder, Cursor Code, Claude API 
@@ -77,19 +77,15 @@ classes: ["resume-page"]
 
   Led the onboarding team for Microsoft SOC Services, transitioning Fortune 500 clients from custom deployments to an agile, task-based workflow. Have managed, coordinated, and optimized the delivery of key security platforms including Sentinel, M365 Defender, and Azure Lighthouse. This work drove adoption of a standardized onboarding model, improving alignment with Microsoft and industry best practices.
 
-   **Principle Security Consultant and Analyst**, _Full-time, Jan 2003 - March 2024, Tokyo, Japan and Redmond, Washington, US_
+   **Security Field Consultant and Analyst - Microsoft Security Operation**, _Full-time, Jan 2003 - March 2024, Tokyo, Japan and Redmond, Washington, US_
 
-  Served as a Principal Security Consultant for over 20 years, leading enterprise engagements across Japan and globally in deploying Microsoft’s security ecosystem. Specialized in threat modeling, offensive simulation (TTP-based), and security solution development across cloud and on-premises environments. Collaborated directly with Microsoft engineering and government agencies on vulnerability research, compiler-based static analysis, and product-level security enhancements.
+  Served as a Software Engineer and Security Consultant for +15 years, leading enterprise engagements across Japan and globally in deploying Microsoft’s security ecosystem. Specialized in software engineering, security analysis, threat modeling, offensive simulation (TTP-based), and security solution development across cloud and on-premises environments. Collaborated directly with Microsoft engineering and government agencies on vulnerability research, compiler-based static analysis, and product-level security enhancements.
 
    **Solution Architect - Security Solutions**, _Full-time, Jul 2018 - April 2022, Redmond, Washington, US_
 
   Led global security solution development at Microsoft in Microsoft Consulting Business Group. Enabled faster deployment across 7+ regions by coordinating cross-functional teams in Marketing, Sales, Delivery, and Support. Delivered impactful projects including ML-based fraud detection and Azure security automation, reducing deployment cycles from annual to quarterly.
-
-   **Security Architect and Regional Architect**, _Full-time, Jan 2011 - July 2019, Tokyo, Japan and Redmond, Washington, US_
    
-  As Security and Regional Architect, led global security strategy integration across Microsoft Cloud offerings, driving a 25% increase in security service adoption. Incubated innovative programs like AI-based Threat Modeling and SDLv2 to accelerate secure DevOps practices. Advised enterprise clients across Japan and APAC on security strategy, while co-developing assurance frameworks with Microsoft Services CTO.
-   
-   **Security Engineer**, _Full-time, Nov1997 - Oct 2004, Kawasaki-ku, Kanagawa, Japan_<br>
+   **Security Engineer**, _Full-time, Kawasaki-ku, Kanagawa, Japan_<br>
 
   Software and IT Engineer, strongly focus on Public Key Infrastructure (PKI) engineering. PKI based payment protocol standardization and its interoperability works in government, financial and other industries in Asia. Work with crypto library in Linux and freeBSD environments. 
 
@@ -100,8 +96,8 @@ classes: ["resume-page"]
 ## Education
 
 - **Georgia Institute of Technology**, Master of Analytics, Georgia, USA, September 2024 - Current 
-- **Georgia Institute of Technology**, Master of Information Design and Technology, 1998, Georgia, USA 
-- **Kansai University of Foreign Studies**, Bachelor of Linguistics (English), Osaka, 1995, Japan  
+- **Georgia Institute of Technology**, Master of Information Design and Technology, Georgia, USA 
+- **Kansai University of Foreign Studies**, Bachelor of Linguistics (English), Osaka, Japan  
 </div>
 
 </div>
